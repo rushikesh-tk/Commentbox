@@ -1,0 +1,13 @@
+.data-space-parent {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 5vh;
+}
+
+.data-space {
+  background-color: lightgrey;
+}
+
+.input-space {
+}
